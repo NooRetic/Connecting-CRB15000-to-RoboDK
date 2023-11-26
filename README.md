@@ -1,2 +1,3 @@
 # ABB_GoFa_RoboDK
-This an explanation of how to connect the ABB GoFa robot and manipulate it using RoboDK
+This a quick quide as to how to use the ABB robot in the  C039
+
