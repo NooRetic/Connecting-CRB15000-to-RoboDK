@@ -21,7 +21,7 @@ Please Follow the steps Below:
 ![Pasted image 20231129193503](https://github.com/NooRetic/ABB_GoFa_RoboDK/assets/105431271/2f404752-3b47-4e62-b60a-fbbd24d64b4a)
 
 
-- Download RoboDK socket from ABB (Zip included) (https://robodk.com/forum/Thread-RoboDK-driver-for-ABB)
+- Download RoboDK socket from ABB (Zip included) ([https://robodk.com/forum/Thread-RoboDK-driver-for-ABB] this is the link containing the files offered by the Robotic Software Manager **Jérémy Brouillard**)
 - Extract the zip folder and you will get the RDK_DriverSocket.mod file 
 - Change the file extension to **`.modx`**
 
