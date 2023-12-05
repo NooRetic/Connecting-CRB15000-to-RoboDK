@@ -76,6 +76,7 @@ Please Follow the steps Below:
 > Never delete any `Main` module in a routine as the module wont work in the future
 
 ## 3. Creating the connection
+- Connect an Ethernet cable between the robot and the computer (use the ethernet ports available in the robot's unit)
 - Select Control 
 - Switch To Auto
 - Turn the motors on
