@@ -1,5 +1,5 @@
 # ABB_GoFa_RoboDK
-## This is a guide to connect An ABB GoFa robot (CRB15000) to RoboDK.
+## This is a guide to connect An ABB GoFa robot (CRB15000) to RoboDK. It is part of my work completed during my PhD at Glasgow Caledonian University 2020-_present_
 
 Please Follow the steps Below:
 
