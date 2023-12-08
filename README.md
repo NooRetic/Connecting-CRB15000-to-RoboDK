@@ -1,9 +1,9 @@
 # ABB_GoFa_RoboDK
 ## This is a guide to connect An ABB GoFa robot (CRB15000) to RoboDK. It is part of my work completed during my PhD at Glasgow Caledonian University 2020-_present_
 
-Please Follow the steps Below:
+## Please Follow the steps Below:
 
-## 1. Connect to the controller and transfer the socket to the robot.
+### 1. Connect to the controller and transfer the socket to the robot.
 - Open RobotStudio
 
 ![Pasted image 20231127114104](https://github.com/NooRetic/ABB_GoFa_RoboDK/assets/105431271/b31b962f-2f79-4260-a8a1-69b3077f248b)
@@ -36,7 +36,7 @@ Please Follow the steps Below:
 
 ![Pasted image 20231129195741](https://github.com/NooRetic/ABB_GoFa_RoboDK/assets/105431271/c7ce0c33-38b0-4a6e-a8e8-33243e7b7c3f)
 
-## 2. Allowing the robot’s communication with RoboDK
+### 2. Allowing the robot’s communication with RoboDK
 
 - In the controller side bar select Controller from the configuration drop down menu
 
@@ -52,7 +52,7 @@ Please Follow the steps Below:
 
 -  Restart the controller
 
-## 3. Updating the progam on the teachpendant
+### 3. Updating the progam on the teachpendant
 - Open the teach pendant.
 
 ![Pasted image 20231129194217](https://github.com/NooRetic/ABB_GoFa_RoboDK/assets/105431271/f10a97e3-da98-435b-bd89-133a4e20f5b2)
@@ -75,7 +75,7 @@ Please Follow the steps Below:
 >[!Warning]
 > Never delete any `Main` module in a routine as the module wont work in the future
 
-## 3. Creating the connection
+### 3. Creating the connection
 - Connect an Ethernet cable between the robot and the computer (use the ethernet ports available in the robot's unit)
 - Select Control 
 - Switch To Auto
@@ -92,7 +92,7 @@ Please Follow the steps Below:
   
 ![Pasted image 20231129200049](https://github.com/NooRetic/ABB_GoFa_RoboDK/assets/105431271/02c89daa-623c-4f90-8297-382678a9999a)
 
-## 4. Open RoboDK to connect to the robot.
+### 4. Open RoboDK to connect to the robot.
 - Import the Robot in the environment from the library
 - Connect to the robot by `Connect Robot`
 
@@ -109,7 +109,7 @@ Please Follow the steps Below:
 
 ![Pasted image 20231127115050 1](https://github.com/NooRetic/ABB_GoFa_RoboDK/assets/105431271/43258a85-cd1e-465f-92b8-9bbc03296980)
 
-## Done! the robot should be connected to RoboDK.
+### Done! the robot should be connected to RoboDK.
 
 
 
